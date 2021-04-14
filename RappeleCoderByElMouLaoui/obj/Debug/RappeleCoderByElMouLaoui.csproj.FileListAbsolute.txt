@@ -1,0 +1,13 @@
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\bin\Debug\RappeleCoderByElMouLaoui.exe.config
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\bin\Debug\RappeleCoderByElMouLaoui.exe
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\bin\Debug\RappeleCoderByElMouLaoui.pdb
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.csprojResolveAssemblyReference.cache
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.Form1.resources
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.Properties.Resources.resources
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.csproj.GenerateResource.Cache
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.exe
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.pdb
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.FormGetCode.resources
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.FormSetCode.resources
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\obj\Debug\RappeleCoderByElMouLaoui.FormGestionCoder.resources
+C:\Users\anouar\Documents\Visual Studio 2013\Projects\RappeleCoderByElMouLaoui\RappeleCoderByElMouLaoui\bin\Debug\FontAwesome.Sharp.dll
